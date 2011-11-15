@@ -1,0 +1,9 @@
+name 'jeffmccune-motd'
+version '1.0.3'
+
+author 'Jeff McCune <jeff@puppetlabs.com>'
+license 'Apache'
+project_page 'https://github.com/jeffmccune/jeffmccune-motd'
+source 'puppetlabs-motd'
+summary 'Manages the message of the day'
+description 'Places information about the host in the message of the day.'
